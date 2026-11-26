@@ -63,6 +63,10 @@ body {
 .right-top {
     flex: 1.2;
     background-color: #F4F4F4;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .right-middle {
