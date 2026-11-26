@@ -9,7 +9,7 @@ body {
     position: relative;
 }
 
-.left-side-container img {
+.left-side-container > img {
     width: 100%;
     height: 100%;
     object-fit: cover;
