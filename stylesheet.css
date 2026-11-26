@@ -15,6 +15,16 @@ body {
     object-fit: cover;
 }
 
+.photo-credit {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+}
+
 .right-side-container {
     flex: 2;
     display: flex;
