@@ -35,6 +35,11 @@ body {
     height: auto;
 }
 
+.logo-banner h1 {
+    color: white;
+    font-size: 48px;
+}
+
 .photo-credit {
     position: absolute;
     bottom: 12px;
