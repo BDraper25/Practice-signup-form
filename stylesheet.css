@@ -67,6 +67,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    padding: 80px 18% 10px 4%;
 }
 
 .right-middle {
