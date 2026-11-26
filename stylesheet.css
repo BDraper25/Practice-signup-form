@@ -30,6 +30,11 @@ body {
     padding: 15px 0;
 }
 
+.logo-banner img {
+    width: 70px;
+    height: auto;
+}
+
 .photo-credit {
     position: absolute;
     bottom: 12px;
