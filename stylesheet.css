@@ -6,6 +6,7 @@ body {
 
 .left-side-container {
     flex: 1;
+    position: relative;
 }
 
 .left-side-container img {
