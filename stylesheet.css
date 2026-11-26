@@ -15,6 +15,13 @@ body {
     object-fit: cover;
 }
 
+.logo-banner {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    width: 100%;
+}
+
 .photo-credit {
     position: absolute;
     bottom: 12px;
