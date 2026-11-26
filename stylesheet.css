@@ -25,6 +25,10 @@ body {
     font-size: 12px;
 }
 
+.photo-credit a {
+    color: white;
+}
+
 .right-side-container {
     flex: 2;
     display: flex;
