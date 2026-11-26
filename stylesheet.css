@@ -59,3 +59,18 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.right-top {
+    flex: 1.2;
+    background-color: #F4F4F4;
+}
+
+.right-middle {
+    flex: 1;
+    background-color: #FFFFFF;
+}
+
+.right-bottom {
+    flex: 1.2;
+    background-color: #F4F4F4;
+}
